@@ -1,0 +1,20 @@
+body {
+	background-color: #222233;
+	color: white;
+	font-family: 'IBM Plex Serif', serif;
+
+}
+#Quote {
+	text-align: center;
+	margin-top: 160px;
+}	
+#time {
+	font-size: 20px;
+}
+hr {
+	width: 50px;
+}
+p {
+	font-family: 'IBM Plex Serif', serif;
+	font-size: 20px;
+}

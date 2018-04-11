@@ -1,0 +1,14 @@
+{
+ "manifest_version": 2,
+ "name": "Random Quote",
+ "description": "Random Quote Generator",
+ "version": "1",
+ "author": "Shantanu Kamdi",
+"browser_action": {
+   "default_title": "Random Quote"
+ },
+"chrome_url_overrides" : {
+  "newtab": "newtab.html"
+},
+ "permissions": ["activeTab"]
+}
